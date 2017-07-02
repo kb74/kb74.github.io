@@ -1,4 +1,3 @@
-
 # Projecten
 
 Binnen deze minor werken studenten samen met onderzoekers aan 4 projecten op het gebied van Applied Data Science. De projecten zijn:
