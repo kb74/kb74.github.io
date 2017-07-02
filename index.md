@@ -28,3 +28,4 @@ Lees meer over:
 - [Project presentaties](presentaties)
 - [Gast colleges](gastcolleges)
 - [Evenementen](evenementen)
+- [Contact](contact)
