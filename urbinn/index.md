@@ -1,4 +1,4 @@
 # Project Urbinn
 
-![Urbinn](urbinn.png){:style="float: right; width: 300px;"}
+[![Urbinn](urbinn.png){:style="float: right; width: 300px;"}](urbinn.png)
 De Betafactory en het lectoraat Smart Sensor Systems zijn een jaar geleden project gestart om een duurzame zelfrijdende stadsauto te maken. Het eerste prototype is ontworpen in samenwerking met de TU Delft. Het bedrijf Accenda is betrokken bij de begeleiding en constructie van de duurzame auto. Op het gebied van autonoom rijden is binnen het project in samenwerking met de opleiding Mechatronica van de HHS faculteit TIS al ervaring opgedaan door een zelfrijdende rolstoel uit te rusten met een Lidar de omgeving in kaart brengt. Met de Lidar kan de afstand naar obstakels worden ingeschat, maar niet worden gezien wat het voor obstakel is (voetganger, huis, auto). Het doel van dit project wordt om camera beelden te gebruiken om vaste en bewegende obstakels te classificeren zodat deze informatie in een vervolgtraject kan worden gebruikt om het autonoom rijden te onderzoeken.
