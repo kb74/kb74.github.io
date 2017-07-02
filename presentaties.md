@@ -5,7 +5,7 @@ Hieronder komen de data van de sprint presentaties, en de onderwerpen waar de pr
 ### Vrijdag 8 september
 - [Pepper](pepper):
 - [Urbinn](urbinn):
-- Smart Building:
-- Hypersensitivity:
+- [Smart Building](smartbuilding):
+- [Hypersensitivity](hypersensitivity):
 
 
