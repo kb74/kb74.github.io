@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+.olive {
+color: #96A437;
+}
 a:link {
 color: #96A437;
 text-decoration: none;
@@ -11,3 +14,14 @@ a:visited {
 text-decoration: none;
 color: #96A437;
 }
+h1 {
+color: #96A437;
+}
+h2 {
+color: #7F7F7F;
+}
+h3 {
+color: #96A437;
+}
+
+
