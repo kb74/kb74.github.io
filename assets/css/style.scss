@@ -1,4 +1,8 @@
-@import "jekyll-theme-tactile";
+---
+---
+
+@import "{{ site.theme }}";
+
 a:link {
 color: #96A437;
 text-decoration: none;
