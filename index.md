@@ -1,4 +1,4 @@
-Binnen deze minor werken studenten samen met onderzoekers aan 4 projecten op het gebied van Applied Data Science. De projecten zijn:
+Binnen deze minor werken studenten samen met onderzoekers aan 4 projecten op het gebied van Applied Data Science. Klik op de projecten voor meer informatie:
 
 ### [Project Pepper](pepper)
 
