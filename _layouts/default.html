@@ -17,33 +17,23 @@
       <div class="inner">
 
         <header>
-          <table><tr align=center valign=middle><td>
+          <table align=center><tr valign=middle><td>
              <div style="height: 40px; overflow: hidden; float: left;">
 	     <img src="img/ITD_ENG_groen_JPG.jpg" height="50">
              </div>
 	  </td><td> 
           <h1 style="display:flex; align-items:center; justify-content: center"> {{ site.title }}
           </h1></td>
-          <tr align=center><td colspan=2><h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+          <tr><td colspan=2><h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
           </table>
         </header>
-        <section id="downloads" class="clearfix">
-          {% if site.show_downloads %}
-          <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
-          <a href="{{ site.github.tar_url }}" id="download-tar-gz" class="button"><span>Download .tar.gz</span></a>
-          {% endif %}
-        </section>
         <hr>
         <section id="main_content">
           {{ content }}
         </section>
 
         <footer>
-        {% if site.github.is_project_page %}
-          {{ site.title | default: site.github.repository_name }} is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a><br>
-        {% endif %}
         </footer>
-
       </div>
     </div>
 
