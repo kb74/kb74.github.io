@@ -17,12 +17,14 @@
       <div class="inner">
 
         <header>
-          <table><tr><td>
+          <table><tr align=center valign=middle><td>
+             <div style="height: 40px; overflow: hidden; float: left;">
 	     <img src="img/ITD_ENG_groen_JPG.jpg" height="50">
+             </div>
 	  </td><td> 
           <h1 style="display:flex; align-items:center; justify-content: center"> {{ site.title }}
           </h1></td>
-          <tr colspan=2><td><h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+          <tr align=center><td colspan=2><h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
           </table>
         </header>
         <section id="downloads" class="clearfix">
