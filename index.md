@@ -20,7 +20,7 @@ Sommige mensen klagen over gevoeligheid voor electromagnetische velden (bijvoorb
 
 ---
 
-Lees meer over:
+Meer informatie:
 - [KB-74](kb74)
 - [Project opzet](opzet)
 - [Curriculum](curriculum)
