@@ -17,10 +17,11 @@ Wij hebben met een los aangeschafte Realsense camera (dus nog even zonder Pepper
 Hier twee voorbeelden. Op het eerste voorbeeld een opnamne op 1 meter afstand.
 
 
-[![op 1 meter](1meter1frames.jpg){:style="float: left; width: 300px;"}](1meter1frames.jpg)
+[![op 1 meter](1meter1frames.jpg){:style="width: 300px;"}](1meter1frames.jpg)
 
 
 Op het twede voorbeeld was de afstand 3 meter, en zijn om een beter beeld te krijgen 10 frames samengenomen.
 
 
-[![op 3 meter, 10 frames](3meter10frames.jpg){:style="float: left; width: 300px;"}](3meter10frames.jpg)
+[![op 3 meter, 10 frames](3meter10frames.jpg){:style="width: 300px;"}](3meter10frames.jpg)
+
