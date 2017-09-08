@@ -16,8 +16,11 @@ We hebben ondertussen skeleton algoritmes gevonden, en zijn bezig die op onze ei
 Wij hebben met een los aangeschafte Realsense camera (dus nog even zonder Pepper robot eromheen) beelden kunnen opnemen. We zien dat de resolutie van de beelden niet direct zo goed is dat we overtuigd zijn dat metingen betrouwbaar zullen zijn. We zijn dus aan het experimenteren met verschillende instellingen. 
 Hier twee voorbeelden. Op het eerste voorbeeld een opnamne op 1 meter afstand.
 
-[![op 1 meter](1meter1frames.jpg){:style="float: right; width: 300px;"}](1meter1frames.jpg)
+
+[![op 1 meter](1meter1frames.jpg){:style="float: center; width: 300px;"}](1meter1frames.jpg)
+
 
 Op het twede voorbeeld was de afstand 3 meter, en zijn om een beter beeld te krijgen 10 frames samengenomen.
 
-[![op 3 meter, 10 frames](3meter10frames.jpg){:style="float: right; width: 300px;"}](3meter10frames.jpg)
+
+[![op 3 meter, 10 frames](3meter10frames.jpg){:style="float: center; width: 300px;"}](3meter10frames.jpg)
