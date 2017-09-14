@@ -16,6 +16,6 @@ Een voorbeeld van ORB2 SLAM op de KITTI Dataset (klik voor video) [![ORB2 SLAM o
 Milestone 2 - ORB localization gang Slinger/Kitti
 ----------
 
-In week 3 zijn we begonnen met het maken van de eigen dataset gebasseerd op the gang (Slinger) van de Haagse Hogeschool. Onze milesstone is dat voor het einde van sprint 2 het mogelijk is om middels onze eigen dataset of de KITTI dataset (http://www.cvlibs.net/datasets/kitti/) in te kunnen laden in het ORB-SLAM2 algoritme.
-ORB-SLAM2 is inmiddels geinstalleerd op de server waarmee we de eerste testen hebben gedraaid. Daarnaast zijn er twee nieuwe groepsleden toegevoegd aan het Urbinn project die het totaal aantal leden op 10 brengt. We experimenteren met verschillende soorten camera's om te bepalen welke settings (fps, resolutie, etc) het beste zijn voor dit project. 
-Ook is het inmiddels mogelijk om de pointcloude van de map op te slaan waarmee het mogelijk moet worden om een semantische map van de omgeving te kunnen maken. Tot slot is er gewerkt aan de juiste kalibratie van de camera's.   
+In week 3 zijn we begonnen met het maken van de eigen dataset gebasseerd op de gang (Slinger) van de Haagse Hogeschool. Onze milesstone voor sprint 2 is het mogelijk maken om middels onze eigen dataset of de KITTI dataset in te kunnen laden in het ORB-SLAM2 algoritme.
+ORB-SLAM2 is inmiddels geinstalleerd op de server waarmee we de eerste testen hebben gedraaid. Daarnaast zijn er twee nieuwe groepsleden toegevoegd aan het Urbinn project die het totaal aantal leden op 10 brengt. We experimenteren met verschillende soorten camera's om te bepalen welke settings (fps, resolutie, etc) het beste en meest geschikt zijn voor dit project. 
+Ook is het inmiddels mogelijk om de pointcloude van de map op te slaan waarmee het mogelijk moet worden om een semantische map van de omgeving te kunnen creëren. Tot slot is er gewerkt aan de juiste kalibratie van de camera's.   
