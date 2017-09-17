@@ -1,4 +1,4 @@
-Binnen deze minor werken studenten samen met onderzoekers aan 4 projecten op het gebied van Applied Data Science. Klik op de projecten voor meer informatie:
+Binnen deze minor werken studenten samen met onderzoekers aan 3 projecten op het gebied van Applied Data Science. Klik op de projecten voor meer informatie:
 
 ### [Project Pepper](pepper)
 
@@ -11,10 +11,6 @@ De Betafactory, Accenda en het lectoraat Smart Sensor Systems zijn een jaar gele
 ### [Project Smart Building](smartbuilding)
 
 Het gebouw van de Haagse Hogeschool op de TU Delft campus is duurzaam gebouwd en voorzien van duizenden sensoren die worden gebruikt om zo efficiënt mogelijk het klimaat in het gebouw te beheersen. Het doel van dit project is om onderzoek te doen naar de oorzaak van niet goed functioneren en het mogelijk voorkomen ervan door bijvoorbeeld het niet correct functioneren van sensoren te detecteren of voorspellen.
-
-### [Project Electromagnetic Hypersensitivity](hypersensitivity)
-
-Sommige mensen klagen over gevoeligheid voor electromagnetische velden (bijvoorbeeld magnetron, zendmasten, Wifi). Het doel van dit project is te onderzoeken hoe nauwkeuriger kan worden bepaald wat de werkelijke blootstelling aan electromagnetische velden is.
 
 ---
 

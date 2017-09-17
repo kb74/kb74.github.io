@@ -4,8 +4,11 @@ Hieronder komen de data van de sprint presentaties, en de onderwerpen waar de pr
 - [Pepper](pepper):
 - [Urbinn](urbinn):
 - [Smart Building](smartbuilding):
-- [Hypersensitivity](hypersensitivity):
+
+Als je langs wilt komen bij een van de presentaties, mail dan svp even aan [Jeroen Vuurens](mailto:j.b.p.vuurens@hhs.nl)
 
 ### Vrijdag 8 september 14:00
 locatie: HHS vestiging Den Haag, SL7.62
-registeren deelname: [meetup](presentaties vrijdag 8 september 14:00)
+
+### Vrijdag 22 september 14:00
+locatie: HHS vestiging Den Haag, SL7.62
