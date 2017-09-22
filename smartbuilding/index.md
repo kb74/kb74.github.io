@@ -10,7 +10,14 @@ De eerste week stond voornamelijk in het teken van kennis maken met het project.
 
 ## Week 2 
 
-In week 2 stond het gebouw in Delft centraal. Wij vonden het noodzakelijk om kennis te maken met het gebouw en de sensoren om een beter beeld te krijgen van de huidige gang van zaken. Daar werd tevens een presentatie gegeven door Tadeo. Hierdoor werd het begrip 'comfort' meer duidelijk.
 
 
 ## Week 3
+
+In week 3 stond het gebouw in Delft centraal. Wij vonden het noodzakelijk om kennis te maken met het gebouw en de sensoren om een beter beeld te krijgen van de huidige gang van zaken. Daar werd tevens een presentatie gegeven door Tadeo. Hierdoor werd het begrip 'comfort' meer duidelijk.
+
+
+## Week 4
+
+In week 4 stond de stakeholder analyse centraal.
+
