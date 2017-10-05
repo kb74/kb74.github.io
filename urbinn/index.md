@@ -41,4 +41,4 @@ Inmiddels is het einde van de sprint voor het behalen van milestone 3 in zicht. 
 
 Verder is de pipeline gewijzigd door voortschrijdend inzicht in YOLO. Hieronder is het vernieuwde overzicht te zien.
 
-[![Nieuwe pipeline](pipeline_new.png)](pipeline_new.png)
+[![Nieuwe pipeline](new_pipeline.png)](new_pipeline.png)
