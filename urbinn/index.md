@@ -30,8 +30,15 @@ Milestone 3 - Object detection/recognition gang Slinger/Kitti
 
 Om milestone 3 te behalen zijn we begonnen met het onderzoeken van verschillende frameworks voor object detection en recognition. De belangrijkste eis is dat het framework in real-time objecten kan detecteren en herkennen. Om deze reden hebben we voor het framework YOLO, You Only Look Once, gekozen. YOLO kan met 45 fps uitgevoerd worden. Er bestaat ook een snellere variant, FAST YOLO, die met 155 fps uitgevoerd kan worden. 
 Na het testen van YOLO gaan we beginnen aan de pipeline. De pipeline bestaat uit ORB SLAM2 om diepte te bepalen en YOLO om objecten te detecteren en herkennen, zoals te zien is in het overzicht hieronder.  
-<br>
+
 [![Pipeline](pipeline.png)](pipeline.png)          
-<br>
-<br>
+
 Inmiddels is er ook een begin gemaakt aan het evaluatieplan. We gaan plattegronden en met laser gegenereerde point clouds gebruiken om de nauwkeurigheid van de pipeline en camera setup te bepalen. Op basis hiervan kunnen we de pipeline verbeteren.
+
+Inmiddels is het einde van de sprint voor het behalen van milestone 3 in zicht. Er is een evaluatieplan opgesteld om de accuraatheid van point clouds gegenereerd m.b.v. visual stereo SLAM-setups vast te stellen. Ook zijn varianten van het YOLO-framework getest, namelijk Tiny YOLO (FAST YOLO) en YOLO 9000. Tiny YOLO is een snellere variant van YOLO doordat het achterliggende neurale netwerkt kleiner is. YOLO 9000 is juist een uitbreiding van het orignele framework omdat het maarliefst 9000 classificaties gebruikt in plaats van 20. Tijdens het testen is gebleken dat Tiny YOLO goed genoeg is voor object detectie en herkenning. Het is wel noodzakelijk om meer classificaties toe te voegen aan Tiny YOLO, zoals in het Tiny YOLO plaatje hieronder te zien is.
+
+[![Tiny YOLO detectie en herkenning](predictions_tiny.png)](predictions_tiny.png)          
+
+Verder is de pipeline gewijzigd door voortschrijdend inzicht in YOLO. Hieronder is het vernieuwde overzicht te zien.
+
+[![Nieuwe pipeline](pipeline_new.png)](pipeline_new.png)
