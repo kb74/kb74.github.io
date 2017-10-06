@@ -25,7 +25,7 @@ Verder hebben wij twee camera's gekalibreerd en zijn de eerste stereo videobeeld
 Tot slot zijn de eerste voorbereidende stappen ondernomen voor milestone 3 (Milestone 3 - Object detection gang Slinger/Kitti). Wij hebben 2 intressante frameworks onderzocht betreffende real time object detection namelijk, [YOLO](https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection) en [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn).
 
 
-Milestone 3 - Object detection/recognition gang Slinger/Kitti
+Milestone 3 - Object detection gang Slinger/Kitti
 ----------	
 
 Om milestone 3 te behalen zijn we begonnen met het onderzoeken van verschillende frameworks voor object detection en recognition. De belangrijkste eis is dat het framework in real-time objecten kan detecteren en herkennen. Om deze reden hebben we voor het framework YOLO, You Only Look Once, gekozen. YOLO kan met 45 fps uitgevoerd worden. Er bestaat ook een snellere variant, FAST YOLO, die met 155 fps uitgevoerd kan worden. 
