@@ -53,3 +53,22 @@ Voor het evalueren van ORB-SLAM2 is besloten dat het programma CloudCompare gebr
 Het is van belang dat we de mogelijkheid hebben om ORB2 resultaten op te splitsen zodat we dit kunnen analyseren per keyframe. Hiervoor is een export van de beschikbare resultaten gerealiseerd die de informatie omzet naar XML formaat.
 
 Voor het trainen van Tiny Yolo voor ons doel hebben we een afbakening gemaakt om relevante en belangrijke objecten te kunnen identificeren. Hiervoor is research uitgevoerd om te achterhalen of er al bestaande datasets bekend zijn. Door deze research hebben we de dataset COCO (common objects in context) gevonden. COCO is een grootschalig object detectie-, segmentatie- en classificatie dataset. Hierin staan meer dan 300.000 afbeeldingen van objecten waarvan meer dan 200.000 afbeeldingen gelabeld zijn. Deze afbeeldingen zullen gebruikt worden om Tiny Yolo te trainen en te evalueren.
+
+
+
+
+Milestone 5 - Volledige Semantische Map Delft
+----------------------
+
+In week 9 van het project zijn taken uitgevoerd voor de volgende onderwerpen.
+Trainen van Tiny Yolo
+Dieptebeelden maken met ZED camera
+ORB2 Slam incrementeel leren
+
+Tiny Yolo is getraind op een server in Leiden. Op deze server is Darkflow (een variatie op Darknet) geïnstalleerd en deze is geconfigureerd als Tiny Yolo versie 2. Voor het trainen is gebruik gemaakt van de Kitty Dataset en zijn er 4 classes toegekend die herkend moeten worden. Aan het einde van het trainingssessie is er een recall van gemiddeld 50% van objectherkenning over elke afbeelding. Verder zal de Tiny Yolo v2 getraind worden met verder trainingsmateriaal dat bezit over 2.1 miljoen gelabelde afbeeldingen.
+
+De ZED camera is operationeel gemaakt en hiermee zijn dieptebeelden gegenereerd. De dieptebeelden hebben nog geen specifiek doel in het project. Echter hebben we hier ideeën over die nog besproken zullen worden binnen de groep. Met de ZED camera zijn stereobeelden beschikbaar.
+
+De eerste run in ORB2 Slam is uitgevoerd met de data van de ZED camerabeelden van de locatie “Slinger” in de Haagse Hogeschool. Deze beelden moeten eerst verwerkt worden om een resultaat te krijgen in de vorm van een pointcloud.
+
+![ORB-SLAM op ZED-Camera (test1).png](https://i.imgur.com/inwlax5.png)
