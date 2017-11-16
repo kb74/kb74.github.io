@@ -72,3 +72,7 @@ De ZED camera is operationeel gemaakt en hiermee zijn dieptebeelden gegenereerd.
 De eerste run in ORB2 Slam is uitgevoerd met de data van de ZED camerabeelden van de locatie “Slinger” in de Haagse Hogeschool. Deze beelden moeten eerst verwerkt worden om een resultaat te krijgen in de vorm van een pointcloud.
 
 ![ORB-SLAM op ZED-Camera (test1).png](https://i.imgur.com/inwlax5.png)
+
+Week 10 zijn wij begonnen met het opdelen van het team in meerdere teams. Uit de testresultaten die gedaan zijn op ORB-SLAM2 bleek namelijk dat het ORB-SLAM framework bij een grotere hoeveelheid data memory leaks optraden. Om deze reden zijn er vier teams gevormd waarbij team 1 zich bezighoud met het dichten van de memory leaks. Een aantal "grote" memory leaks zijn inmiddels gedicht. Teams 2 is bezig met het herschrijven van ORB-SLAM2 in Python. Team 3 is druk bezig met het creëren van een eigen dataset door gebruik te maken van bestaande datasets en deze te wijzigen naar onze wensen. Tot slot is team 4 bezig met het evalueren en optimaliseren van YOLO, aangezien sommige bounding boxen door YOLO schuin op het object getekend worden. 
+
+Helaas is de GPU voor onze server nog niet geleverd. Hierdoor zijn wij genoodzaakt om YOLO te trainen op de server in Leiden. Vanwege een aantal vertragingen in de planning zijn de deadlines van de milestones verschoven.
