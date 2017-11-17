@@ -28,8 +28,7 @@ Na dit inzicht zijn we , op donderdag 28 Oktober,  met de KINECT en 2 videocamer
 Er hebben in totaal van 61 personen , 3 verschillende schouder bewegingen opgenomen.  Dit heeft ons een hele berg ( echt héél veel ) data gegeven.
 Deze data is omgezet naar .csv bestandsoort zodat dit ingeladen kan worden in Python. De komende weken gaan we ons richten op het bewerken van al deze data in python. Denk hierbij vooral aan het opschonen van de verkregen data.
 
-
-
+---
 
 ## 22 september 2017 
 
