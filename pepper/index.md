@@ -4,6 +4,32 @@
 Het LUMC en het lectoraat voor Health and Technology wil onderzocht hebben hoe een interactieve robot (Pepper) kan worden ingezet in het revalidatietraject van patiënten die een gewrichtsoperatie hebben ondergaan, bv een knie- of schouderoperatie. Deze patiënten moeten bijvoorbeeld elk uur specifieke oefeningen doen om snel te revalideren. In praktijk doen veel patiënten deze oefeningen vaak niet of niet correct waardoor de revalidatie minder goed verloopt. Dat is slecht voor de patiënt, de wachtlijsten en het ziekenhuis. Het idee is dat een robot langs de patiënt gaat om instructie te geven, te observeren of de oefening correct wordt uitgevoerd, eventueel bij te sturen, en verslag uit te brengen naar de arts hoe ver de patiënt in het revalidatietraject is. In deze eerste 20 weken is het doel om te herkennen of oefeningen correct worden uitgevoerd.
 
 ---
+# Posts
+---
+
+## 27 oktober 2017
+
+De afgelopen sprint zijn we weer volop bezig geweest met de KINECT. De programmeurs van ons team hebben een programma geschreven zodat we op een gestructureerde wijze beelden kunnen opslaan vanuit de KINECT.
+Door in dit programma op ‘Start’ te klikken worden 2 files aangemaakt en een aparte map. Deze 2 files zijn een .xml file waarin alle skeleton joints ( gewrichten) worden opgeslagen, in de andere file wordt het opgenomen diepte beeld opgeslagen.
+
+AFBEELDING 9: KINECT PROGRAMMA VOOR OPSLAAN VAN DATA.
+
+Hierop hebben we zelf een test opname gemaakt van een groepslid. De data uit deze testopname hebben we kunnen verwerken d.m.v. Microsoft Excel. Hieruit konden we voorlopig de volgende grafieken laten zien:
+Bij vergelijking 1 heeft de persoon alleen zijn rechter arm zijwaarts omhoog bewogen. Je kunt hier zien in welke hoek de schouder zich bewoog afgezet tegen de tijd. 
+Vergelijking 1Hoek rechterschouder tegenover de tijd
+
+Uit deze grafiek kun je goed opmaken dat naar mate de tijd oploopt de hoek ook oploopt van pakweg 15 graden naar 120 graden. ( oranje lijn). De blauwe lijn die de linkerschouder aanduidt blijft gelijk. Dit klopt ook omdat deze arm niet bewogen is en dus langs het lichaam hangt.
+
+Vergelijking 2Beide schouder tegenover de tijd
+
+In vergelijk 2 heeft de persoon beide armen zijwaarts bewogen. Je kunt goed zijn dat allebei de armen de hoek vergroot worden tegenover de tijd. Je kunt hier echter zien dat de persoon asymmetrisch heeft bewogen. De rechterarm ( oranje lijn) stagneert in het midden waarna hij daarna weer oploopt. Hieruit kun je aflezen dat de persoon op een moment zijn arm slomer omhoog heeft bewogen.
+
+Na dit inzicht zijn we , op donderdag 28 Oktober,  met de KINECT en 2 videocamera’s opnames gaan maken op de Haagse Hogeschool in het Atrium (zoals beschreven in de test setup van het vorige github bericht).
+Er hebben in totaal van 61 personen , 3 verschillende schouder bewegingen opgenomen.  Dit heeft ons een hele berg ( echt héél veel ) data gegeven.
+Deze data is omgezet naar .csv bestandsoort zodat dit ingeladen kan worden in Python. De komende weken gaan we ons richten op het bewerken van al deze data in python. Denk hierbij vooral aan het opschonen van de verkregen data.
+
+
+
 
 ## 22 september 2017 
 
