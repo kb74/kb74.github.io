@@ -12,8 +12,9 @@ Het LUMC en het lectoraat voor Health and Technology wil onderzocht hebben hoe e
 De afgelopen sprint zijn we weer volop bezig geweest met de KINECT. De programmeurs van ons team hebben een programma geschreven zodat we op een gestructureerde wijze beelden kunnen opslaan vanuit de KINECT.
 Door in dit programma op ‘Start’ te klikken worden 2 files aangemaakt en een aparte map. Deze 2 files zijn een .xml file waarin alle skeleton joints ( gewrichten) worden opgeslagen, in de andere file wordt het opgenomen diepte beeld opgeslagen.
 
-AFBEELDING 9: KINECT PROGRAMMA VOOR OPSLAAN VAN DATA.
+
 ![KINECT programma voor opslaan van data](https://github.com/BorisEnthovenSchool/kb74.github.io/blob/master/pepper/Afbeelding%209.png "KINECT programma") 
+Afbeelding 9: KINECT programma voor het opslaan van data.
 
 Hierop hebben we zelf een test opname gemaakt van een groepslid. De data uit deze testopname hebben we kunnen verwerken d.m.v. Microsoft Excel. Hieruit konden we voorlopig de volgende grafieken laten zien:
 
@@ -52,33 +53,32 @@ In ons vorige bericht lieten wij weten de Intel Real Sense camera - die vergelij
 
 Inmiddels is de Microsoft Kinect aangeschaft en zijn hier een aantal libraries en SDK’s uitgeprobeerd. Deze zijn hieronder afgebeeld. 
 
-#### Afbeelding 1&2: Freenect, OpenNi2, NITE
-
 [![Pepper1](Pepper122092017.png){:style="width: 300px;"}](Pepper122092017.png)
+Afbeelding 1: Freenect, OpenNi2, NITE
 [![Pepper2](Pepper222092017.png){:style="width: 300px;"}](Pepper222092017.png)
-
-#### Afbeelding 3&4: Kinect SDK
+Afbeelding 2: Freenect, OpenNi2, NITE
 
 [![Pepper3](Pepper322092017.png){:style="width: 300px;"}](Pepper322092017.png) 
+Afbeelding 3: Kinect SDK
 [![Pepper4](Pepper422092017.png){:style="width: 300px;"}](Pepper422092017.png)
-
-#### Afbeelding 5&6: Vitruvius 
+Afbeelding 4: Kinect SDK
 
 [![Pepper5](Pepper522092017.png){:style="width: 300px;"}](Pepper522092017.png)
+Afbeelding 5: Vitruvius 
 [![Pepper6](Pepper622092017.png){:style="width: 300px;"}](Pepper622092017.png)
- 
-#### Afbeelding 7: Test Setup
+Afbeelding 6: Vitruvius 
 
 [![Pepper7](Pepper722092017.png){:style="width: 300px;"}](Pepper722092017.png)
+Afbeelding 7: Test Setup
 
 In afbeelding 7 is de test setup voor het identificatieproces van de schouderbewegingen te zien. Wij willen dit realiseren aan de hand van een drietal camera’s: een front camera (Kinect), een camera voor het zijaanzicht en een camera die opnames maakt vanaf de grond. De camera’s voor zijaanzicht en onderaanzicht zijn alleen nodig om te valideren of de Kinect camera voldoende nauwkeurig is. Dit gaan wij handmatig meten. De metingen is voor ons de maatstaf voor de vergelijking. 
 Wanneer de Kinect nauwkeurig genoeg is gebleken kunnen we afstappen van de twee extra camera’s en ons volledig richten op het automatisch meten d.m.v. de Kinect.
 
 *Een painful arc is de hoek van een schouderbeweging (zie afbeelding 8) die door schouder patiënten - tijdens het uitvoeren van deze beweging - als pijnlijk beschouwen wordt. Deze hoek kan per patiënt verschillen. Hierdoor is het zaak om (nauwkeurig) te achterhalen waar deze hoek zich precies bevindt tijdens het bewegen van de schouder. 
 
-#### Afbeelding 8: De schouderbewegingen om de painful arc te identificeren. 
-
 ![schouderoefening](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Body_Movements_I.jpg/506px-Body_Movements_I.jpg "Schouderoefening") 
+Afbeelding 8: De schouderbewegingen om de painful arc te identificeren. 
+
 
 ---
 
