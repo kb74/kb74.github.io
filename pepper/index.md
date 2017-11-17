@@ -55,16 +55,19 @@ Inmiddels is de Microsoft Kinect aangeschaft en zijn hier een aantal libraries e
 
 [![Pepper1](Pepper122092017.png){:style="width: 300px;"}](Pepper122092017.png)
 Afbeelding 1: Freenect, OpenNi2, NITE
+
 [![Pepper2](Pepper222092017.png){:style="width: 300px;"}](Pepper222092017.png)
 Afbeelding 2: Freenect, OpenNi2, NITE
 
-[![Pepper3](Pepper322092017.png){:style="width: 300px;"}](Pepper322092017.png) 
+[![Pepper3](Pepper322092017.png){:style="width: 300px;"}](Pepper322092017.png)
 Afbeelding 3: Kinect SDK
+
 [![Pepper4](Pepper422092017.png){:style="width: 300px;"}](Pepper422092017.png)
 Afbeelding 4: Kinect SDK
 
 [![Pepper5](Pepper522092017.png){:style="width: 300px;"}](Pepper522092017.png)
 Afbeelding 5: Vitruvius 
+
 [![Pepper6](Pepper622092017.png){:style="width: 300px;"}](Pepper622092017.png)
 Afbeelding 6: Vitruvius 
 
