@@ -6,6 +6,17 @@ Het LUMC en het lectoraat voor Health and Technology wil onderzocht hebben hoe e
 
 # Posts
 
+## 10 november 2017
+
+Naast het valideren van de Kinect hebben we de afgelopen weken geprobeerd de Kinect data weer te geven in grafieken. Hierbij hebben we wiskundige technieken gebruikt om ervoor te zorgen dat iedereen recht voor de camera wordt geroteerd voordat we bijvoorbeeld hoeken van een arm gingen berekenen. Bij het plotten van de grafieken kwamen we er ook achter dat we de oefeningen moeten scheiden als we ze overzichtelijk in een grafiek willen zetten. We hebben besloten om dit proces te automatiseren zodat nieuwe video’s ook opgedeeld kunnen worden per oefening. 
+
+![Automatisch bijgesneden oefeningen](https://github.com/BorisEnthovenSchool/kb74.github.io/blob/master/pepper/Afbeelding%2015.png)
+Afbeelding 15: Automatisch snijden van oefeningen (per arm).
+
+Verder zijn we bij het LUMC in Rotterdam geweest, we kunnen hier helaas geen schouder patiënten opnemen. Als we dit willen doen moeten we eerst toestemming krijgen van de medisch ethische commissie, tegen de tijd dat dit goedgekeurd is zijn we 3 maanden verder. Voor ons onderzoek zijn wel patiënten nodig met een painful arc, we kunnen geen machine learning toepassen als we geen data hebben van de situatie die we zoeken. In de volgende periode gaan we opzoek naar een methode zodat we wel mensen kunnen opnemen met een painful arc.
+
+---
+
 ## 27 oktober 2017
 
 We zijn met de Kinect camera en twee digitale camera’s in het Atrium van de Haagse Hogeschool gaan staan om mensen op te nemen die alle drie de schouderoefeningen uitvoeren. Met de data die we hieruit verkrijgen, hopen we schouderpatiënten te kunnen detecteren. Aan de hand van de data kunnen we grafieken maken die ‘hopelijk’ afwijken wanneer iemand een pijnlijke schouder heeft.
