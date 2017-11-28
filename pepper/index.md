@@ -22,7 +22,7 @@ Verder zijn we bij het LUMC in Rotterdam geweest, we kunnen hier helaas geen sch
 
 We zijn met de Kinect camera en twee digitale camera’s in het Atrium van de Haagse Hogeschool gaan staan om mensen op te nemen die alle drie de schouderoefeningen uitvoeren. Met de data die we hieruit verkrijgen, hopen we schouderpatiënten te kunnen detecteren. Aan de hand van de data kunnen we grafieken maken die ‘hopelijk’ afwijken wanneer iemand een pijnlijke schouder heeft.
 
-[![Eerste visualisatie](Afbeelding%2010.png)]
+[![Eerste visualisatie](Afbeelding%2010.png)
 
 *Afbeelding 10: Eerste visualisatie.*
 
