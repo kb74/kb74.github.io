@@ -28,7 +28,7 @@ We zijn met de Kinect camera en twee digitale camera’s in het Atrium van de Ha
 
 In Python hebben we de eerste visualisatie gemaakt van de opnames van de drie – door de fysiotherapie van het LUMC voorgeschreven - oefeningen . Op afbeelding 10 is te zien dat de bewegingen zijn opgesplitst in een beweging van de rechter- en de linkerarm. Er valt te zien dat de symmetrie van de bewegingen redelijk overeenkomen.  Op Afbeelding 11 zijn de grafieken van afbeelding 10 samengevoegd tot één grafiek. 
 
-[![samenvoeging van eerste visualisatie van vijf personen](Afbeelding%2011.png)(Afbeelding%2011.png)
+[![samenvoeging van eerste visualisatie van vijf personen](Afbeelding%2011.png)](Afbeelding%2011.png)
 
 *Afbeelding 11: samenvoeging van eerste visualisatie van vijf personen*
 
