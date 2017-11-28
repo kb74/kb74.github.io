@@ -32,17 +32,17 @@ In Python hebben we de eerste visualisatie gemaakt van de opnames van de drie â€
 
 *Afbeelding 11: samenvoeging van eerste visualisatie van vijf personen*
 
-[![Blauw = Kinect, Rood = handmatig gemeten.](Afbeelding%2012.png){:style="float: right; width: 300px;"}](Afbeelding%2012.png)
+[![Blauw = Kinect, Rood = handmatig gemeten.](Afbeelding%2012.png)](Afbeelding%2012.png)
 
 *Afbeelding 12: Validatie*
 
-[![Protractor](Afbeelding%2013.png){:style="float: right; width: 300px;"}](Afbeelding%2013.png)
+[![Protractor](Afbeelding%2013.png)](Afbeelding%2013.png)
 
 *Afbeelding 13: Protractor*
 
 Om te controleren of de gemeten gegevens van de KINECT valide zijn, zijn de hoeken handmatig gemeten. Hierbij hebben ze frames gepakt waarop ze handmatig de hoeken hebben berekend met een chrome tool, Protractor, waarmee je een cirkel kan tekenen op een afbeelding en hierbij een lijnt kan trekken vanaf het midden naar de zijkant. De schouder werd als middelpunt van de cirkel gezet en vervolgens werd er een groene lijn getekend die de hoek bepaald, zoals in afbeelding 13 te zien is. Er is gekozen om van elke vijf frames de graden van de persoon te meten. In de grafiek op afbeelding 12 zijn de hoeken die door de KINECT en handmatig gemeten zijn, naast elkaar gelegd. De KINECT hoeken zijn weergegeven met blauwe bolletjes, de handmatig gemeten hoeken zijn met rode kruizen aangeduid.
 
-[![Bijgesneden grafieken](Afbeelding%2014.png){:style="float: right; width: 300px;"}](Afbeelding%2014.png)
+[![Bijgesneden grafieken](Afbeelding%2014.png)](Afbeelding%2014.png)
 
 *Afbeelding 14: Bijgesneden grafieken*
 
