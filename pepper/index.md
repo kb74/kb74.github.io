@@ -58,7 +58,7 @@ Afbeelding 9: KINECT programma voor het opslaan van data.
 
 Hierop hebben we zelf een test opname gemaakt van een groepslid. De data uit deze testopname hebben we kunnen verwerken d.m.v. Microsoft Excel. Hieruit konden we voorlopig de volgende grafieken laten zien:
 
-![Vergelijking1](https://github.com/BorisEnthovenSchool/kb74.github.io/blob/master/pepper/Vergelijking%201.png "Vergelijking 1") 
+![Vergelijking1](kb74.github.io/pepper/Vergelijking 1.png "Vergelijking 1") 
 Vergelijking 1Hoek rechterschouder tegenover de tijd
 
 Bij vergelijking 1 heeft de persoon alleen zijn rechter arm zijwaarts omhoog bewogen. Je kunt hier zien in welke hoek de schouder zich bewoog afgezet tegen de tijd. 
@@ -67,7 +67,7 @@ Bij vergelijking 1 heeft de persoon alleen zijn rechter arm zijwaarts omhoog bew
 
 Uit deze grafiek kun je goed opmaken dat naar mate de tijd oploopt de hoek ook oploopt van pakweg 15 graden naar 120 graden. ( oranje lijn). De blauwe lijn die de linkerschouder aanduidt blijft gelijk. Dit klopt ook omdat deze arm niet bewogen is en dus langs het lichaam hangt.
 
-![Vergelijking2](https://github.com/BorisEnthovenSchool/kb74.github.io/blob/master/pepper/Vergelijking%202.png "Vergelijking 2") 
+![Vergelijking2](kb74.github.io/pepper/Vergelijking 2.png "Vergelijking 2") 
 Vergelijking 2Beide schouder tegenover de tijd
 
 
