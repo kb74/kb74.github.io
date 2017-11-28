@@ -52,13 +52,13 @@ De afgelopen sprint zijn we weer volop bezig geweest met de KINECT. De programme
 Door in dit programma op ‘Start’ te klikken worden 2 files aangemaakt en een aparte map. Deze 2 files zijn een .xml file waarin alle skeleton joints ( gewrichten) worden opgeslagen, in de andere file wordt het opgenomen diepte beeld opgeslagen.
 
 
-![KINECT programma voor opslaan van data] (https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%209.png)
+![KINECT programma voor opslaan van data]    (https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%209.png "KINECT programma voor opslaan van data")
 
 Afbeelding 9: KINECT programma voor het opslaan van data.
 
 Hierop hebben we zelf een test opname gemaakt van een groepslid. De data uit deze testopname hebben we kunnen verwerken d.m.v. Microsoft Excel. Hieruit konden we voorlopig de volgende grafieken laten zien:
 
-![Vergelijking1](kb74.github.io/pepper/Vergelijking 1.png) 
+![Vergelijking1](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Vergelijking%201.png "Vergelijking 1") 
 Vergelijking 1Hoek rechterschouder tegenover de tijd
 
 Bij vergelijking 1 heeft de persoon alleen zijn rechter arm zijwaarts omhoog bewogen. Je kunt hier zien in welke hoek de schouder zich bewoog afgezet tegen de tijd. 
