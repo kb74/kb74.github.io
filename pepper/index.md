@@ -51,7 +51,7 @@ De drie bovenste grafieken zijn de originele grafieken, waarin de bewegingen tij
 De afgelopen sprint zijn we weer volop bezig geweest met de KINECT. De programmeurs van ons team hebben een programma geschreven zodat we op een gestructureerde wijze beelden kunnen opslaan vanuit de KINECT.
 Door in dit programma op ‘Start’ te klikken worden 2 files aangemaakt en een aparte map. Deze 2 files zijn een .xml file waarin alle skeleton joints ( gewrichten) worden opgeslagen, in de andere file wordt het opgenomen diepte beeld opgeslagen.
 
-![alt text](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%209.png "KINECT programma voor opslaan van data")
+![alt text](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%209.png "KINECT programma voor opslaan van data"){:height="36px" width="36px"}
 
 *Afbeelding 9: KINECT programma voor het opslaan van data.* 
 
