@@ -65,7 +65,7 @@ Hierop hebben we zelf een test opname gemaakt van een groepslid. De data uit dez
 
 ![Vergelijking1](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Vergelijking%201.png "Vergelijking 1") 
 
-*Vergelijking 1Hoek rechterschouder tegenover de tijd*
+*Afbeelding 10: Vergelijking 1Hoek rechterschouder tegenover de tijd*
 
 Bij vergelijking 1 heeft de persoon alleen zijn rechter arm zijwaarts omhoog bewogen. Je kunt hier zien in welke hoek de schouder zich bewoog afgezet tegen de tijd. 
 
@@ -75,7 +75,7 @@ Uit deze grafiek kun je goed opmaken dat naar mate de tijd oploopt de hoek ook o
 
 ![Vergelijking2](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Vergelijking%202.png "Vergelijking 2") 
 
-*Vergelijking 2Beide schouder tegenover de tijd* 
+*Afbeelding 11: Vergelijking 2Beide schouder tegenover de tijd* 
 
 
 In vergelijk 2 heeft de persoon beide armen zijwaarts bewogen. Je kunt goed zijn dat allebei de armen de hoek vergroot worden tegenover de tijd. Je kunt hier echter zien dat de persoon asymmetrisch heeft bewogen. De rechterarm ( oranje lijn) stagneert in het midden waarna hij daarna weer oploopt. Hieruit kun je aflezen dat de persoon op een moment zijn arm slomer omhoog heeft bewogen.
