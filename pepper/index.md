@@ -11,7 +11,8 @@ Het LUMC en het lectoraat voor Health and Technology wil onderzocht hebben hoe e
 Naast het valideren van de Kinect hebben we de afgelopen weken geprobeerd de Kinect data weer te geven in grafieken. Hierbij hebben we wiskundige technieken gebruikt om ervoor te zorgen dat iedereen recht voor de camera wordt geroteerd voordat we bijvoorbeeld hoeken van een arm gingen berekenen. Bij het plotten van de grafieken kwamen we er ook achter dat we de oefeningen moeten scheiden als we ze overzichtelijk in een grafiek willen zetten. We hebben besloten om dit proces te automatiseren zodat nieuwe video’s ook opgedeeld kunnen worden per oefening. 
 
 ![Automatisch bijgesneden oefeningen](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%2015.png)
-Afbeelding 15: Automatisch snijden van oefeningen (per arm).
+
+*Afbeelding 15: Automatisch snijden van oefeningen (per arm).*
 
 Verder zijn we bij het LUMC in Rotterdam geweest, we kunnen hier helaas geen schouder patiënten opnemen. Als we dit willen doen moeten we eerst toestemming krijgen van de medisch ethische commissie, tegen de tijd dat dit goedgekeurd is zijn we 3 maanden verder. Voor ons onderzoek zijn wel patiënten nodig met een painful arc, we kunnen geen machine learning toepassen als we geen data hebben van de situatie die we zoeken. In de volgende periode gaan we opzoek naar een methode zodat we wel mensen kunnen opnemen met een painful arc.
 
@@ -21,24 +22,29 @@ Verder zijn we bij het LUMC in Rotterdam geweest, we kunnen hier helaas geen sch
 
 We zijn met de Kinect camera en twee digitale camera’s in het Atrium van de Haagse Hogeschool gaan staan om mensen op te nemen die alle drie de schouderoefeningen uitvoeren. Met de data die we hieruit verkrijgen, hopen we schouderpatiënten te kunnen detecteren. Aan de hand van de data kunnen we grafieken maken die ‘hopelijk’ afwijken wanneer iemand een pijnlijke schouder heeft.
 
-![Eerste visualisatie](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%2010.png) 
-Afbeelding 10: Eerste visualisatie.
+![Eerste visualisatie](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%2010.png)
+
+*Afbeelding 10: Eerste visualisatie.*
 
 In Python hebben we de eerste visualisatie gemaakt van de opnames van de drie – door de fysiotherapie van het LUMC voorgeschreven - oefeningen . Op afbeelding 10 is te zien dat de bewegingen zijn opgesplitst in een beweging van de rechter- en de linkerarm. Er valt te zien dat de symmetrie van de bewegingen redelijk overeenkomen.  Op Afbeelding 11 zijn de grafieken van afbeelding 10 samengevoegd tot één grafiek. 
 
-[![samenvoeging van eerste visualisatie van vijf personen](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%2011.png){:style="float: right; width: 300px;"}](Afbeelding%2011.png)
-Afbeelding 11: samenvoeging van eerste visualisatie van vijf personen
+[!samenvoeging van eerste visualisatie van vijf personen](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%2011.png)
 
-[![Blauw = Kinect, Rood = handmatig gemeten.](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%2012.png){:style="float: right; width: 300px;"}](Afbeelding%2012.png)
-Afbeelding 12: Validatie
+*Afbeelding 11: samenvoeging van eerste visualisatie van vijf personen*
 
-[![Protractor](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%2013.png){:style="float: right; width: 300px;"}](Afbeelding%2013.png)
-Afbeelding 13: Protractor
+[!Blauw = Kinect, Rood = handmatig gemeten.](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%2012.png){:style="float: right; width: 300px;"}
+
+*Afbeelding 12: Validatie*
+
+[!Protractor](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%2013.png){:style="float: right; width: 300px;"}
+
+*Afbeelding 13: Protractor*
 
 Om te controleren of de gemeten gegevens van de KINECT valide zijn, zijn de hoeken handmatig gemeten. Hierbij hebben ze frames gepakt waarop ze handmatig de hoeken hebben berekend met een chrome tool, Protractor, waarmee je een cirkel kan tekenen op een afbeelding en hierbij een lijnt kan trekken vanaf het midden naar de zijkant. De schouder werd als middelpunt van de cirkel gezet en vervolgens werd er een groene lijn getekend die de hoek bepaald, zoals in afbeelding 13 te zien is. Er is gekozen om van elke vijf frames de graden van de persoon te meten. In de grafiek op afbeelding 12 zijn de hoeken die door de KINECT en handmatig gemeten zijn, naast elkaar gelegd. De KINECT hoeken zijn weergegeven met blauwe bolletjes, de handmatig gemeten hoeken zijn met rode kruizen aangeduid.
 
-[![Bijgesneden grafieken](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%2014.png){:style="float: right; width: 300px;"}](Afbeelding%2014.png)
-Afbeelding 14: Bijgesneden grafieken
+[!Bijgesneden grafieken](https://raw.githubusercontent.com/BorisEnthovenSchool/kb74.github.io/master/pepper/Afbeelding%2014.png){:style="float: right; width: 300px;"}
+
+*Afbeelding 14: Bijgesneden grafieken*
 
 Om een goed beeld te krijgen hoe de personen de bewogen hebben, zijn de grafieken bijgesneden. Er is als het ware ingezoomd op de beelden waarbij men de daadwerkelijke oefening uitvoert. Dit is terug te zien op Afbeelding 14.
 
