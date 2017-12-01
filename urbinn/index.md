@@ -80,3 +80,19 @@ Helaas is de GPU voor onze server nog niet geleverd. Hierdoor zijn wij genoodzaa
 Inmiddels is het week 12. Wij hebben vernomen dat de GPU van de server volgende week (week 13) wordt geleverd. Deze zal ongeveer over twee weken operationeel zijn. Verder is URB uitgebreidt. URB's worden met elkaar vergeleken tussen het eerste frame en het eerst daaropvolgende frame. Tussen iedere frame zit 70 cm diepte verschil, wanneer bijvoorbeeld het eerste frame met het vijfde frame wordt vergeleken, is de afstand te groot om URB's met elkaar te kunnen matchen tussen de frames. 
 
 Bovendien zijn wij bezig geweest met het uitbreiden van onze dataset. Hiervoor hebben wij een script gemaakt die de afbeeldingen en de labels kan spiegelen. Dit komt er praktisch op neer dat er een verdubbeling plaatsvindt van de gehele dataset. Verder gaan wij een test training doen met Yolo op onze eigen dataset. Dit om te kijken hoe goed Yolo hierop functioneert. Daarnaast zijn de opnames van de omgeving buiten de school door ORB meerdere malen (incrementeel) verwerkt. Dit is gedaan om de dichtheid van de pointcloud te kunnen vergelijken met de pointcloud van een eenmalige run door ORB. Tot slot zijn de  cameraposities van ORB worden gebruikt om de nauwkeurigheid van URB te bepalen.
+
+
+
+In week 13 hebben we Urb verder uitgebreid.  De bindings van C++ naar python zijn gemaakt. Dit omdat we de C++ framework g2o gebruiken om de graph en bundle adjustment te maken. We hebben de door Urb gemaakte puntent nagemeten.  Objecten die dichtbij zijn hebben een kleine foutmargin tussen de 1 en 2 cm. Hoe verder het object is hoe groter de foutmargin wordt.
+Om Urb nog te verbeteren waren we ook bezig  de voordelen van HSV  (Hue, Saturation, Value)  te onderzoeken. Bij grayscale kunnen nog meer punten fout gematcht worden. Er is ook een begin gemaakt aan de trajectory visualisaite van de Urb.
+
+We waren klaar met het labelen van onze dataset. We hebben in totaal 2180 afbeeldingen gelabeld. De GPU is helaas nog niet geleveerd dus we hebben alle runs van Yolo op de server in Leiden uitgvoerd. 180 van de afbeeldingen werden voor de evaluatie gebruikt.
+Er is ook een plan van aanpak gemaakt van hoe we beelden gaan opnemen in Delft. De route die we gaan volgen wordt hieronder afgebeeld.
+[![Routes](routes.png)](routes.png)
+
+
+
+
+
+
+
