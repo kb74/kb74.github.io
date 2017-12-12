@@ -90,7 +90,9 @@ We waren klaar met het labelen van onze dataset. We hebben in totaal 2180 afbeel
 Er is ook een plan van aanpak gemaakt van hoe we beelden gaan opnemen in Delft. De route die we gaan volgen wordt hieronder afgebeeld.
 [![Routes](routes.png)](routes.png)
 
-
+In week 14 waren we weer bezig met het uitbreiden van Urb. De local bundle adjustment was afgemaakt. Verder is de nieuwe GPU binnen gekomen en geinstaleerd.  We kunnen YOLO  nu op de datascience server trainen. Ook is het converten van svo  naar png formaat werkend op de GPU van de server.
+Er moet nog gefilmed worden in Delft. Dit hopen we volgende week te doen. Verder hebben we de tracking gedeelte van Urb gemaakt waardoor wij nu een trajectory kunnen tekenen. Als de full bundle adjustment klaar is kunnen wij de trajectory evalueren . Hieronder wordt de trajactory die wij  gemaakt hebben verbeeld.
+[![Routes](trajectory_Blog.jpg)](trajectory_Blog.jpg)
 
 
 
