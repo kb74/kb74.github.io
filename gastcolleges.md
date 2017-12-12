@@ -10,3 +10,7 @@ Vr 6 oktber:
 
 Vr 26 oktober
 13:45 SL7.62 Guido Ongena - The Data Science Unicorn
+
+Ma 11 December
+13:45 SL7.62 Mischa Beckers (Lector Data Science Hogeschool Zeeland) - Big Data: Do believe the hype!
+
