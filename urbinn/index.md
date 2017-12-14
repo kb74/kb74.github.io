@@ -95,6 +95,10 @@ Er moet nog gefilmed worden in Delft. Dit hopen we volgende week te doen. Verder
 [![Routes](trajectory_Blog.jpg)](trajectory_Blog.jpg)
 
 
+Voor Sprint 8 proberen we 2 doelen te behalen. De eerste is 'handmatige loop closing m.b.v frames en full Bundle Adjustment' en de tweede is een '2D-semantische map' te generenen. 
+
+In week 15 hebben we de code van Urb verder verbeterd, zodat we beter de routes kunnen vergelijken met de Ground Truth van de KITTI-dataset. Ook beschikken we nu over onze eigen dataset van Delft. Verder is YoLo getraind en valideerd met de gelabelde dataset van vorige sprint. 
+
 
 
 
