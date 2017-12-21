@@ -97,7 +97,10 @@ Er moet nog gefilmed worden in Delft. Dit hopen we volgende week te doen. Verder
 
 Voor Sprint 8 proberen we 2 doelen te behalen. De eerste is 'handmatige loop closing m.b.v frames en full Bundle Adjustment' en de tweede is een '2D-semantische map' te generenen. 
 
-In week 15 hebben we de code van Urb verder verbeterd, zodat we beter de routes kunnen vergelijken met de Ground Truth van de KITTI-dataset. Ook beschikken we nu over onze eigen dataset van Delft. Verder is YoLo getraind en valideerd met de gelabelde dataset van vorige sprint. 
+In week 15 hebben we de code van Urb verder verbeterd, zodat we beter de routes kunnen vergelijken met de Ground Truth van de KITTI-dataset. Ook beschikken we nu over onze eigen dataset van Delft. Verder is YoLo getraind en valideerd met de gelabelde dataset van vorige sprint.  
+
+In week 16 hebben we de opnames van delft door urb en yolo gehaald. In de output van Urb viel ons op dat de code moeite bleek te hebben met deze dataset dat resulteerde tot een output dat een rechte streep was. Het probleem met Yolo was dat veel van de objecten fout of niet niet goed werden gelabeld. 
+De code van Full Bundle Adjustment zijn gemaakt maar ongetest. 
 
 
 
