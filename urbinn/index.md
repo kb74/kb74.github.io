@@ -103,5 +103,19 @@ In week 16 hebben we de opnames van delft door urb en yolo gehaald. In de output
 De code van Full Bundle Adjustment zijn gemaakt maar ongetest. 
 
 
+In week 17 zijn er een aantal wijzigingen doorgevoerd met betrekking tot onze visie en het einddoel van het project. In de vorige sprint zijn de volgende problemen geconstateerd die de voortgang van het project in het geding brengt:
+
+1. Zelfgetraind YOLO model is niet toepasbaar op de gecreëerde dataset van Delft.
+2. URB ondervindt problemen met het analyseren van de gereden routes.
+
+Deze problemen hebben er toe geleid dat er besloten is om onze concepten toe te passen met behulp van de Kitti dataset in plaats van onze eigen gecreëerde Delft dataset.
+
+Daarnaast is er verder gewerkt aan het oplossen van het Loop Closure probleem en de koppeling van YOLO en URB. Voor het Loop Closure probleem zoeken we naar een oplossing waarbij het systeem het traject herkend die al een keer gepasseerd is. Het systeem dient daarop het gereden traject aan te passen om een juist gesloten traject te produceren.
+
+
+In week 18 hebben we de code van Urb verder ontwikkelt en geoptimaliseerd door verschillende filter methodes te maken die outliers verwijderen. Dit is nodig voor de local en full Bundle Adjustment. De filters maken gebruik van contrast van patches om te bepalen of deze wel bruikbaar zijn. Een van de methodes word gebruikt om patches met weinig contrast weg te filteren.
+
+Verder hebben we ons bezig gehouden met de koppeling van YOLO en Urb. Er is ook een begin gemaakt aan het tekenen van mappoints samen met de trajectory. Door de gelimiteerde tijd van het project is het besluit genomen om de focus te legggen op de KITTI-dataset.
+
 
 
