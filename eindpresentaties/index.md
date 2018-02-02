@@ -1,6 +1,6 @@
 # Eindpresentaties
 
-<img style="float: left;" height=100 src="kb74.png">
+<img style="float: left;" height=100 src="kb74.png" />
 
 **Eindpresentaties ITD minor Applied Data Science**
 
