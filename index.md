@@ -22,5 +22,5 @@ Meer informatie:
 - [Project presentaties](presentaties)
 - [Gast colleges](gastcolleges)
 - [Evenementen](evenementen)
-- [Eindpresentaties](eindpresentaties)
+- [Eindpresentaties](eindpresentaties/programma.pdf)
 - [Contact](contact)
